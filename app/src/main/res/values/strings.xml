@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Cheeni Kum - Made in India</string>
+    <string name="ma_scan_btn">Scan Now</string>
+    <string name="ma_editText_hint">Enter a Bar Code</string>
+    <string name="ma_search_btn">Search</string>
+    <string name="sc_img_desc">country of origin</string>
+    <string name="sc_origin_txt">Country of origin :</string>
+    <string name="card_icon">card icon</string>
+    <string name="bar_code_card_title">Bar Code Scanner</string>
+    <string name="bar_code_card_desc">Scan Bar Code of Products</string>
+    <string name="brands_card_title">Indian Brands</string>
+    <string name="brands_card_desc">Indian Brands to choose</string>
+    <string name="products_card_title">Buy Indian Products</string>
+    <string name="products_card_desc">Indian Products to buy</string>
+    <string name="app_card_title">Chinese Apps Alternatives</string>
+    <string name="app_card_desc">Alternatives of Chinese apps</string>
+
+<string-array name="brands_categories">
+    <item>Electronics</item>
+    <item>Groceries</item>
+    <item>Health and fitness</item>
+    <item>Smartphones</item>
+    <item>Earphones</item>
+    <item>Acessories</item>
+    <item>Sports</item>
+    <item>Fashion</item>
+</string-array>
+</resources>
